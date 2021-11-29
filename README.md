@@ -18,6 +18,8 @@ You can reach me at chrisbvalle@gmail.com
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Web3-Solidity-blue.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-JavaScript-red.svg?&style=for-the-badge&logo=JavaScript&logoColor=red" height="25"/>
+<img src="https://img.shields.io/badge/-AWS-yellow.svg?&style=for-the-badge&logo=aws&logoColor=Yellow" height="25"/>
+<img src="https://img.shields.io/badge/-React-blue.svg?&style=for-the-badge&logo=React&logoColor=Blue" height="25"/>
 </p>
 <br />
 <br />
