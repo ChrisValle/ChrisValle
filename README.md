@@ -11,3 +11,15 @@ Teach Stack: Python, AWS, JavaScript, HTML, CSS, Git, Grafana, Solidity, Web3, B
 In my free time I enjoy spending time with my family, playing poker, working out and exploring new cities.
 
 You can reach me at chrisbvalle@gmail.com
+
+## Languages and Tools:
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Web3-Solidity-blue.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-React-red/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+</p>
+<br />
+<br />
