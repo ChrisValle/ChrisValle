@@ -34,7 +34,7 @@ You can reach me at chrisbvalle@gmail.com
             </a>
 </p>
           </td>
-	  <td align="left" width="300">
+	  <td align="center" width="300">
 <p align="center">
             <a href="https://www.linkedin.com/in/chris-v-464ba920/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
