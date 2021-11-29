@@ -17,9 +17,7 @@ You can reach me at chrisbvalle@gmail.com
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Web3-Solidity-blue.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-React-red/>
-<img src="https://img.shields.io/badge/-JavaScript-red>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+<img src="https://img.shields.io/badge/-JavaScript-red.svg?&style=for-the-badge&logo=JavaScript&logoColor=red" height="25"/>
 </p>
 <br />
 <br />
