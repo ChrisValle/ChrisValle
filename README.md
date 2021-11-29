@@ -20,6 +20,7 @@ You can reach me at chrisbvalle@gmail.com
 <img src="https://img.shields.io/badge/-JavaScript-red.svg?&style=for-the-badge&logo=JavaScript&logoColor=red" height="25"/>
 <img src="https://img.shields.io/badge/-AWS-yellow.svg?&style=for-the-badge&logo=aws&logoColor=Yellow" height="25"/>
 <img src="https://img.shields.io/badge/-React-blue.svg?&style=for-the-badge&logo=React&logoColor=Blue" height="25"/>
+<img src="https://img.shields.io/badge/-Git-lightgrey.svg?&style=for-the-badge&logo=Git&logoColor=lightgrey" height="25"/>
 </p>
 <br />
 <br />
