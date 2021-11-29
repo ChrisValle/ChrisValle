@@ -6,8 +6,6 @@ Driven by my lifelong interest in tech, I decided to make a career change from H
 
 I currently work at Funnel as a Software Engineer building API connectors and helping marketing analysts get their marketing data from across different platforms business-ready.  On the side I am learning about Solidity and Web3 development.  
 
-Teach Stack: Python, AWS, JavaScript, HTML, CSS, Git, Grafana, Solidity, Web3, Blockchain, Sentry, Firebase and LogDNA.
-
 In my free time I enjoy spending time with my family, playing poker, working out and exploring new cities.
 
 [![Gmail Badge](https://img.shields.io/badge/-chrisbvalle@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrisbvalle@gmail.com)](mailto:chrisbvalle@gmail.com)
