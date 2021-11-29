@@ -10,7 +10,8 @@ Teach Stack: Python, AWS, JavaScript, HTML, CSS, Git, Grafana, Solidity, Web3, B
 
 In my free time I enjoy spending time with my family, playing poker, working out and exploring new cities.
 
-You can reach me at chrisbvalle@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-chrisbvalle@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrisbvalle@gmail.com)](mailto:chrisbvalle@gmail.com)
+
 
 
 ## ⚡ Technologies
