@@ -12,18 +12,23 @@ In my free time I enjoy spending time with my family, playing poker, working out
 
 You can reach me at chrisbvalle@gmail.com
 
-## Languages and Tools:
-<p align="center">
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Web3-Solidity-blue.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-JavaScript-red.svg?&style=for-the-badge&logo=JavaScript&logoColor=red" height="25"/>
-<img src="https://img.shields.io/badge/-AWS-yellow.svg?&style=for-the-badge&logo=aws&logoColor=Yellow" height="25"/>
-<img src="https://img.shields.io/badge/-React-blue.svg?&style=for-the-badge&logo=React&logoColor=Blue" height="25"/>
-<img src="https://img.shields.io/badge/-Git-lightgrey.svg?&style=for-the-badge&logo=Git&logoColor=lightgrey" height="25"/>
-</p>
-<br />
-<br />
+
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Solidity](https://img.shields.io/badge/Web3-Solidity-blue?style=flat-square&logo=solidity)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
 <h3>Connect with me:</h3>
 <table>
         <tr>
