@@ -25,8 +25,9 @@ You can reach me at chrisbvalle@gmail.com
 <br />
 <br />
 <h3>Connect with me:</h3>
-<tr>
-          <td align="center" width="300">
+<table>
+        <tr>
+          <td align="left" width="300">
 <p align="center">
             <a href="https://twitter.com/MadridChris">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
