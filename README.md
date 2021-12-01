@@ -21,8 +21,7 @@ In my free time I enjoy spending time with my family, playing poker, working out
 ## ⚡ Technologies I Work With
 
 <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="NExtjs Logo" alt="NExtJS Grafana Logo" width="150"/>&emsp
-
+<img src="https://cdn.worldvectorlogo.com/logos/Python.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/JavaScript.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/React" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/AWS" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
