@@ -21,7 +21,7 @@ In my free time I enjoy spending time with my family, playing poker, working out
 ## ⚡ Technologies I Work With
 
 <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" title="solidity" alt="solidity Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/python-5.svg" title="Python" alt="Python Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/javascript-1.svg" title="JavaScript" alt="JavaScript" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/react-2.svg" title="React Logo" alt="React Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/aws-2.svg" title="AWS Logo" alt="AWS Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logo/python.svg" title="Python" alt="Python Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logo/javascript.svg" title="JavaScript" alt="JavaScript" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logo/react2" title="React Logo" alt="React Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logo/aws.svg" title="AWS Logo" alt="AWS Logo" width="65"/>&emsp;
