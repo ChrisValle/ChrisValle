@@ -24,4 +24,4 @@ In my free time I enjoy spending time with my family, playing poker, working out
 <img src="https://cdn.worldvectorlogo.com/logos/Python.svg" title="Python" alt="Python Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/JavaScript.svg" title="JavaScript" alt="JavaScript" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/React.svg" title="React Logo" alt="React Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/AWS.svg" title="AWS Logo" alt="AWS Logo" width="60"/>&emsp;
+<img src="https://cdn.https://worldvectorlogo.com/logo/aws-2.svg" title="AWS Logo" alt="AWS Logo" width="60"/>&emsp;
