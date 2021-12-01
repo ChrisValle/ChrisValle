@@ -20,7 +20,7 @@ In my free time I enjoy spending time with my family, playing poker, working out
 
 ## ⚡ Technologies I Work With
 
-<img src="https://cdn.https://worldvectorlogo.com/logo/solidity" title="Solidity" alt="Solidity Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
