@@ -24,4 +24,4 @@ In my free time I enjoy spending time with my family, playing poker, working out
 <img src="https://cdn.worldvectorlogo.com/logos/Python.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/JavaScript.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/React" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/AWS" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/AWS-2.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
