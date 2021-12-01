@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/MadridChris"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/chris-v-464ba920/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://discord.com/channels/883478451850473483/883488806270025809"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="Discord" width="40"/></a>
+
+
+
 My name is Chris and I am a New York City native living and working in Sweden.  I am a driven Software Developer proficient in modern Python on the backend as well as proven experience with JavaScript OOP with React on the frontend.  I am particularly interested in AWS and have official AWS Solutions Architect, Developer and SysOps certifications.
 
 Driven by my lifelong interest in tech, I decided to make a career change from HR to Software Development.  After graduating from Thinkful Full-Stack bootcamp in 2018, I started working as a Frontend Dev at the beginning of 2019 and haven't looked back since.
@@ -27,18 +33,3 @@ In my free time I enjoy spending time with my family, playing poker, working out
 ![Solidity](https://img.shields.io/badge/Web3-Solidity-blue?style=flat-square&logo=solidity)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
-<h3>Connect with me:</h3>
-<table>
-        <tr>
-          <td align="left" width="300">
-<p align="center">
-            <a href="https://twitter.com/MadridChris">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
-            </a>
-</p>
-          </td>
-	  <td align="center" width="300">
-<p align="center">
-            <a href="https://www.linkedin.com/in/chris-v-464ba920/">
-              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
-            </a>
