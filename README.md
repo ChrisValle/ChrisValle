@@ -6,7 +6,7 @@
 
 
 
-My name is Chris and I am a New York City native living and working in Sweden.  I am a driven Software Developer proficient in modern Python on the backend as well as proven experience with JavaScript OOP with React on the frontend.  4x AWS Certified with a particular interest for Web3 and Solidity.
+My name is Chris and I am a New York City native living and working in Sweden.  I am a driven Software Developer proficient in modern Python on the backend as well as proven experience with JavaScript OOP with React on the frontend.  Additionally, I am 4x AWS Certified and am exploring Web3 and Solidity on the side.
 
 Driven by my lifelong interest in tech, I decided to make a career change from HR to Software Development.  After graduating from Thinkful Full-Stack bootcamp in 2018, I started working as a Frontend Dev at the beginning of 2019 and haven't looked back since.
 
