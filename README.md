@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/MadridChris"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+<a href="https://twitter.com/ChrisBValle"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/chris-v-464ba920/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://discord.com/channels/883478451850473483/883488806270025809"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="YouTube" alt="Discord" width="40"/></a>
 
