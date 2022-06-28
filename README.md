@@ -6,11 +6,11 @@
 
 
 
-My name is Chris and I am a New York City native living and working in Sweden.  I am a driven Software Developer proficient in modern Python on the backend as well as proven experience with JavaScript OOP with React on the frontend.  Additionally, I am 4x AWS Certified and am exploring Web3 and Solidity on the side.
+My name is Chris and I am a New York City native living and working in Sweden.  I am a driven Developer Advocate proficient in growing communities by sharing knowledge, developing content and organizing events.  
 
 Driven by my lifelong interest in tech, I decided to make a career change from HR to Software Development.  After graduating from Thinkful Full-Stack bootcamp in 2018, I started working as a Frontend Dev at the beginning of 2019 and haven't looked back since.
 
-I currently work at Funnel as a Software Engineer building API connectors and helping marketing analysts get their marketing data from across different platforms business-ready.   
+I currently work at Ignite as a Developer Advocate helping grow the Web3 community, a space I am very passionate about.  
 
 In my free time I enjoy spending time with my family, playing poker, working out and exploring new cities.
 
